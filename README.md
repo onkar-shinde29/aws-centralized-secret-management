@@ -46,8 +46,8 @@ It follows a **DevSecOps approach** by integrating security directly into applic
 ❌ Example:
 
 ```python
-db_user = "admin"
-db_password = "mypassword123"
+user = "appuser"
+password = "password@123"
 ```
 
 ### Issues:
